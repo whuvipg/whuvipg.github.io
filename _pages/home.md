@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "VIPG - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "VIPG at Wuhan University."
 sitemap: false
 permalink: /
 ---
