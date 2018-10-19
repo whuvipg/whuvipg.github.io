@@ -1,12 +1,14 @@
-- title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
-  image: Pub_BCl.png
-  description: Using our new noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
-  authors: KM Bastiaans*, D Cho*, T Benschop, I Battisti, Y Huang, MS Golden, Q Dong, Y Jin, J Zaanen, MP Allan
+- title: "Bottle Detection in the Wild Using Low-Altitude Unmanned Aerial Vehicles"
+  image: Pub_UAV_BD.png
+  description: We propose a new dataset and benchmark for low altitude UAV object detection, aiming to find and localize waste plastic bottles in the wild, as well as to inspire the development of object detection models to be capable of detecting small and transparent objects.
+  authors: Jinwang Wang, Wei Guo, Ting Pan, Huai Yu, Wen Yang
   link:
-    url: https://www.nature.com/articles/s41567-018-0300-z
-    display:  Nature Physics
+    url: https://jwwangchn.github.io/UAV-BD/
+    display:  2018 International Conference on Information Fusion (Fusion)
   highlight: 1
-  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news </a> by Erik Arends, <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>
+  news2: 
+
+
 
 - title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
   image: Fano.png
@@ -18,6 +20,8 @@
   highlight: 1
   news2: 
 
+
+
 - title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
   image: SmartPub.png
   description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
@@ -27,6 +31,8 @@
     display:  arxiv:1712.08620 (2017)
   highlight: 1
   news2: 
+
+
 
 - title: "Revisiting quasiparticle scattering interference in high-temperature superconductors: the problem of narrow peaks"
   image: dummy.png
@@ -38,6 +44,8 @@
   highlight: 0
   news2: Coverd in Superconductor Week, November 30, 2017 Vol. 31, No. 10
 
+
+
 - title: Robust procedure for creating and characterizing the atomic structure of scanning tunneling microscope tips
   image: dummy.png
   description: ""
@@ -47,6 +55,8 @@
     display:  Beilstein J. Nanotechnol. 8, 2389 (2017)
   highlight: 0
   news2: 
+
+
 
 - title: Creating better superconductors by periodic nanopatterning
   image: SCAUweb.jpg
@@ -59,6 +69,8 @@
     display: SciPost Phys. 3, 010 (2017)
   highlight: 1
   
+
+
 - title: Poor electronic screening in lightly doped Mott insulators observed with scanning tunneling microscopy
   image: TIBB.png
   description:
@@ -69,6 +81,8 @@
     url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.235141
     display: Phys. Rev. B 95, 235141, Editors' suggestion (2017)
   highlight: 1
+
+
 
 - title: Universality of pseudo gap and emergent order in lightly doped Mott insulators
   image: Mott_phase_sep.jpg
@@ -81,6 +95,8 @@
     display: Nature Physics 13, 21 (2017)
   highlight: 1
   news2: See also <a href="https://www.universiteitleiden.nl/en/news/2016/09/melting-of-frozen-electrons-visualized"> Leiden University news </a> by Erik Arends, <a href="http://phys.org/news/2016-09-frozen-electrons-visualized.html"> Phys.org </a> 
+
+
 
 - title: Identifying the fingerprint of antiferromagnetic spin fluctuations in iron pnictide superconductors
   image: Pub_FP.png
@@ -95,6 +111,8 @@
   news1:
   news2: See also <a href="http://www.news.cornell.edu/stories/2015/01/high-temperature-superconductor-fingerprint-found"> Cornell Chronicle </a> by Anne Ju, <a href="http://phys.org/news/2015-01-high-temperature-superconductor-fingerprint.html"> Phys.org </a> 
 
+
+
 - title: Direct evidence for a magnetic f-electron mediated Cooper pairing mechanism of heavy fermion superconductivity in CeCoIn5
   image: dummy.png
   description: ""
@@ -106,6 +124,8 @@
   highlight: 0
   news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a> 
   news2:
+
+
 
 - title: Imaging Cooper pairing of heavy fermions in CeCoIn5
   image: Pub_CeCoIn5.png
@@ -120,6 +140,8 @@
   news1: <a style="color:#FF0000; text-decoration:underline" href="http://www.nature.com/nphys/journal/v9/n8/full/nphys2708.html">Featured in 'News and Views' by L Taillefer</a>
   news2: See also <a href="http://phys.org/news/2013-07-imaging-electron-pairing-simple-magnetic.html"> Phys.org</a>, <a href="http://davisgroup.lassp.cornell.edu/CeCoIn5_DoE.html">DoE headliner</a>
 
+
+
 - title: Formation of heavy d-electron quasiparticles in Sr3Ru2O7
   image: Pub_327.png
   description:
@@ -131,6 +153,8 @@
     display: New Journal of Physics 15, 063029 (2013) 
   highlight: 1
   news: <a style="color:#FF0000; text-decoration:underline" href="http://iopscience.iop.org/1367-2630/15/6/063029"> Video abstract available</a>
+
+
 
 - title: Anisotropic impurity states, quasiparticle scattering and nematic transport in underdoped Ca(Fe1−xCox)2As2
   image: Pub_nemat2b.png
@@ -144,6 +168,8 @@
     display: Nature Physics 9, 220 (2013)
   news2: See also <a href="http://www.techconnect.org/news/entry.html?id=243"> Tech Connect </a> by Jennifer Rocha, <a href="http://phys.org/news/2013-02-iron-based-superconductor-advances-theory.html"> Phys.org</a> by Bill Steele
 
+
+
 - title: Anisotropic energy gaps of iron-based superconductivity from intraband quasiparticle interference in LiFeAs
   image: Pub_LiFeAs.png
   description:
@@ -156,6 +182,8 @@
   highlight: 1
   news2: See also <a href="http://www.news.cornell.edu/stories/2012/05/new-clues-how-iron-superconductors-work"> Cornell Cornincle </a> by Bill Steele, <a href="http://www.eurekalert.org/pub_releases/2012-05/dnl-avo050312.php"> Eureka Alert </a>
 
+
+
 - title: How Kondo-holes create intense nanoscale heavy-fermion hybridization disorder
   image: dummy.png
   description: ""
@@ -165,6 +193,8 @@
     display:  PNAS 108, 18233 (2011)
   highlight: 0
   news2: 
+
+
 
 - title: Nematic electronic structure in the “parent” state of the iron-based superconductor Ca(Fe1−xCox)2As2
   image: Pub_nemat1.png
@@ -179,6 +209,8 @@
   news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a> 
   news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
 
+
+
 - title: Heavy d-electron quasiparticle interference and real-space electronic structure of Sr3Ru2O7
   image: Pub_hBN.png
   description:
@@ -188,6 +220,8 @@
     url: https://www.nature.com/nphys/journal/v5/n11/full/nphys1397.html
     display: Nature Physics 5, 800 (2009)
   highlight: 0
+
+
 
 - title: Fermi surface and van Hove singularities in the itinerant metamagnet Sr3Ru2O7
   image: Pub_hBN.png
@@ -200,6 +234,8 @@
     display: Phys. Rev. Lett. 101, 026407 (2008)
   highlight: 0
 
+
+
 - title: Tunable  self-assembly of one-dimensional nanostructures with orthogonal directions
   image: Pub_hBN.png
   description:
@@ -210,6 +246,8 @@
     url: http://www.nanoscalereslett.com/content/2/2/94
     display: Nanoscale Research Letters 2, 94 (2007)
   highlight: 1
+
+
 
 - title: Photoelectron Diffraction for a Look inside Nanostructures
   image: dummy.png
