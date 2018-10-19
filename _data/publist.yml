@@ -4,10 +4,12 @@
   authors: Jinwang Wang, Wei Guo, Ting Pan, Huai Yu, Wen Yang
   link:
     url: https://jwwangchn.github.io/UAV-BD/
+    display:  UAV Bottle Dataset
+  link:
+    url: https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=8442112
     display:  2018 International Conference on Information Fusion (Fusion)
   highlight: 1
   news2: 
-
 
 
 - title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
