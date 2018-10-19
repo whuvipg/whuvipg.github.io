@@ -1,12 +1,12 @@
 ---
-title: "Allan Lab - Team"
+title: "VIPG - 成员"
 layout: gridlay
 excerpt: "Allan Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+# 团队成员
 
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
