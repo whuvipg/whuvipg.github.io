@@ -183,7 +183,7 @@ permalink: /team/
 </div>
 
 
-## 本科生
+<!-- ## 本科生
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -234,13 +234,13 @@ permalink: /team/
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %} -->
 
 
 
 
-## 已毕业学
+<!-- ## 已毕业学
     钟能，  2015级硕士生，苏宁
     付凯敏，2015级硕士生，大疆创新
-    尹雪珂，2015级硕士生，
+    尹雪珂，2015级硕士生， -->
 
