@@ -198,7 +198,7 @@ permalink: /team/
 
 
 
-## Alumni
+<!-- ## Alumni
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
@@ -278,4 +278,4 @@ permalink: /team/
     <td></td>
     <td>Daniëlle van Klink, Spring 2016</td>
   </tr>
-</table>
+</table> -->
