@@ -1,10 +1,10 @@
-- name: 杨文
-  photo: verdoes.jpg
+- name: <a href="http://captain.whu.edu.cn/yangwen.html">杨文</a> 
+  photo: yangwen.jpg
   duration: In the Allan Lab 2015 - 2018, now Project manager at the FMD
-  info: Fine mechanical engineer associated with the FMD working in our group
-  email: verdoes@fmd.physics.leidenuniv.nl
+  info: 武汉大学电子信息学院教授，博士生导师
+  email: yangwen@whu.edu.cn
   number_educ: 1
-  education1: Leidse instrumentmakers School
-  education2:
+  education1: 图像处理与机器视觉.
+  education2: 机器学习及其在图像大数据中的应用.
   education3:
-  education4:
+  education4: 无人机系统智能信息处理及应用.
