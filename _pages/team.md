@@ -143,7 +143,7 @@ permalink: /team/
 
 
 
-## 本科生
+## 已毕业学生
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -155,7 +155,7 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <i>{{ member.info }}<br><{{ member.email }}></i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -195,7 +195,6 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
 
 
 
