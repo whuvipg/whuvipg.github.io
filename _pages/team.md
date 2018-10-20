@@ -155,7 +155,7 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
-  {{ member.info }}<br>去向: <{{ member.work }}>
+  {{ member.info }}<br> {{ member.work }}
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
