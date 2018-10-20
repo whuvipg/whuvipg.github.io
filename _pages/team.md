@@ -78,7 +78,7 @@ permalink: /team/
 
 
 
-## 主要成员
+## 学生
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -279,6 +279,3 @@ permalink: /team/
     <td>Daniëlle van Klink, Spring 2016</td>
   </tr>
 </table>
-
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
