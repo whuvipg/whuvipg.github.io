@@ -239,11 +239,8 @@ permalink: /team/
 
 
 
-## 已毕业学生
-
-
-<table align="center" style="width:100%">
+## 已毕业学
     钟能，  2015级硕士生，苏宁
     付凯敏，2015级硕士生，大疆创新
     尹雪珂，2015级硕士生，
-</table>
+
