@@ -8,7 +8,7 @@ permalink: /team/
 
 # 团队成员
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **欢迎电子信息、通信、计算机、数学和物理等相关专业的学生报考本组研究生**
 
 
 ## 负责人
