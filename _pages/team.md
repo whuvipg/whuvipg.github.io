@@ -142,7 +142,7 @@ permalink: /team/
 
 
 
-## 本科生
+<!-- ## 本科生
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -180,7 +180,7 @@ permalink: /team/
   {% endif %}
 
   </ul>
-</div>
+</div> -->
 
 
 <!-- ## 本科生
