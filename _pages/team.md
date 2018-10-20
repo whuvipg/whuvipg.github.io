@@ -243,5 +243,7 @@ permalink: /team/
 
 
 <table align="center" style="width:100%">
-    付凯敏
+    钟能，  2015级硕士生，苏宁
+    付凯敏，2015级硕士生，大疆创新
+    尹雪珂，2015级硕士生，
 </table>
