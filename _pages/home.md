@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-我们是武汉大学视觉与图像处理研究组(Vision and Image Processing Group, VIPG), 实验室位于武汉大学电子信息学院信号处理研究室。
+我们是武汉大学视觉与图像处理研究组(Vision and Image Processing Group, VIPG)。
  
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
