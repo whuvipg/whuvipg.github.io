@@ -2,31 +2,24 @@
   photo: rock.jpg
   info: 2015级博士生
   email: cho@physics.leidenuniv.nl
-  number_educ: 4
-  education1: B.S. Yonsei University, Korea
-  education2: PhD Yonsei University, Korea with <a href="http://web.yonsei.ac.kr/nano/%ED%95%99%EA%B3%BC%EC%86%8C%EA%B0%9C.htm">In-Whan Lyo</a>
-  education3: Postdoc POSTECH with <a href="http://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a>
-  education4: Postdoc Rutgers with <a href="http://rcem.rutgers.edu/">Sang-Wook Cheong</a>
+  number_educ: 1
+  education1: 图像处理
 
 - name: 杨祥立
   photo: rock.jpg
   info: 2016级博士生
   email: cho@physics.leidenuniv.nl
-  number_educ: 4
-  education1: B.S. Yonsei University, Korea
-  education2: PhD Yonsei University, Korea with <a href="http://web.yonsei.ac.kr/nano/%ED%95%99%EA%B3%BC%EC%86%8C%EA%B0%9C.htm">In-Whan Lyo</a>
-  education3: Postdoc POSTECH with <a href="http://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a>
-  education4: Postdoc Rutgers with <a href="http://rcem.rutgers.edu/">Sang-Wook Cheong</a>
+  number_educ: 1
+  education1: 图像处理
+
 
 - name: <a href="http://levenberg.github.io">余淮</a> 
   photo: yuhuai.jpg
   info: 2017级博士生
-  email: cho@physics.leidenuniv.nl
-  number_educ: 4
-  education1: B.S. Yonsei University, Korea
-  education2: PhD Yonsei University, Korea with 
-  education3: Postdoc POSTECH with <a href="http://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a>
-  education4: Postdoc Rutgers with <a href="http://rcem.rutgers.edu/">Sang-Wook Cheong</a>
+  email: yuhuai@whu.edu.cn
+  number_educ: 1
+  education1: 图像处理
+
 
 - name: 王金旺
   photo: jwwangchn.jpg
@@ -40,7 +33,7 @@
   info: 2018级博士生
   email: xufang@whu.edu.cn
   number_educ: 1
-  education1: 目标识别和检测
+  education1: 图像配准
 
 - name: 郭威
   photo: xiaoguo.jpg
@@ -54,106 +47,75 @@
   info: 2016级硕士生
   email: M.Leeuwenhoek@tudelft.nl
   number_educ: 1
-  education1: Master Leiden University with Milan Allan
-  education2:
-  education3:
-  education4:
+  education1: 图像处理
 
 - name: 程文胜
   photo: Damianos.jpg
   info: 2017级硕士生
   email: chatzopoulos@Physics.LeidenUniv.nl
-  number_educ: 2
-  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
-  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
-  education3:
-  education4:
+  number_educ: 1
+  education1: 图像处理
 
 - name: 何婉君
   photo: rock.jpg
   info: 2017级硕士生
   email: w-tromp@hotmail.com
   number_educ: 1
-  education1: Master Leiden University with Felix Baumberger, Milan Allan
-  education2:
-  education3:
-  education4:
+  education1: 图像处理
 
 - name: 林诗杰
   photo: linshijie.jpg
   info: 2017级硕士生
   email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: Master Leiden University with Milan Allan
-  education2: Casimir PhD grant
-  education3:
-  education4:
+  number_educ: 1
+  education1: 图像处理
 
 - name: 崔强强
   photo: cuiqiangqiang.jpg
   info: 2017级硕士生
   email: 1021114542@qq.com
-  number_educ: 2
-  education1: ---
-  education2: ---
-  education3:
-  education4:
+  number_educ: 1
+  education1: 图像处理
 
 - name: 许杰
   photo: xujie.jpg
   info: 2017级硕士生
   email: 1361155361@qq.com
-  number_educ: 2
-  education1: Leidse instrumentmakers School
-  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
+  number_educ: 1
+  education1: 图像处理
 
 - name: 张恒
   photo: zhangheng.jpg
   info: 2017级硕士生
   email: zhangheng_cn@whu.edu.cn
-  number_educ: 2
-  education1: ---
-  education2: ---
+  number_educ: 1
+  education1: 图像处理
 
 - name: 潘婷
   photo: rock.jpg
   info: 2018级硕士生
   email: verdoes@fmd.physics.leidenuniv.nl
-  number_educ: 2
-  education1: ---
-  education2: ---
+  number_educ: 1
+  education1: 图像处理
 
 - name: 罗豪
   photo: luohao.jpg
   info: 2018级硕士生
   email: luohaowhu@whu.edu.cn
-  number_educ: 2
-  education1: ---
-  education2: ---
+  number_educ: 1
+  education1: 图像处理
+
 
 - name: 彭栋
   photo: rock.jpg
   info: 2018级硕士生
   email: verdoes@fmd.physics.leidenuniv.nl
-  number_educ: 2
-  education1: ---
-  education2: ---
+  number_educ: 1
+  education1: 图像处理
 
 - name: 彭锐
   photo: rock.jpg
   info: 2018级硕士生
   email: verdoes@fmd.physics.leidenuniv.nl
-  number_educ: 2
-  education1: ---
-  education2: ---
-
-
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
+  number_educ: 1
+  education1: 图像处理
